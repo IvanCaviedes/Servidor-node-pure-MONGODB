@@ -1,5 +1,4 @@
 const { bodyParser } = require("../lib/bodyparser");
-const Tarea = require("../models/tareas");
 const tareas = require('../models/tareas')
 
 
